@@ -3,7 +3,7 @@
 Bu repo, "Capturing and Analyzing QR Codes in Email" başlıklı makaleme ait örnek kodları içerir.
 
 ## 📌 Amaç
-Kodlar tamamen kişisel bilgi ve deneyimlere dayalı olarak eğitim ve teknik paylaşım amacıyla yazılmıştır. Hiçbir şekilde çalıştığım şirketin üretim kodlarını ya da özel bilgisini içermez.
+Kodlar tamamen kişisel bilgi ve deneyimlere dayalı olarak eğitim ve teknik paylaşım amacıyla yazılmıştır.
 
 ## 🛑 Yasal Uyarı / Legal Disclaimer
 
