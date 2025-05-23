@@ -10,7 +10,6 @@ Kodlar tamamen kişisel bilgi ve deneyimlere dayalı olarak eğitim ve teknik pa
 - Tüm kodlar tarafımdan sıfırdan geliştirilmiş POC (Proof of Concept) örnekleridir.
 - Hiçbir canlı sistem kodu veya ticari sır içermez.
 - Kodlar açık kaynak teknolojilere dayalıdır ve yalnızca eğitim amacıyla paylaşılmıştır.
-- Kodların işverenimle veya geçmiş işverenlerle doğrudan bir bağlantısı yoktur.
 
 ## 📄 İlgili Makaleler
 
